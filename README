@@ -1,0 +1,8 @@
+Execute en cmd o bash:
+
+powershell ó pwsh para abrir powershell
+
+Ejecute:
+
+$filePs1=$pwd"\DockerfileBuild.ps1"
+powershell -ExecutionPolicy ByPass -File $filePs1
