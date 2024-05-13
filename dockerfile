@@ -1,1 +1,1 @@
-FROM portainer/portainer-ce
+FROM portainer/portainer-ce:latest

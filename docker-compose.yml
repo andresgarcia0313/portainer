@@ -1,12 +1,13 @@
-version: '3.7'
+version: '3.8'
 services:
-  gestorcontenedores:
+  contenedorizador:
     build: .
-    container_name: gestorcontenedores
+    container_name: portainer
     image: andresgarcia0313/portainer:latest
     ports:
       - 9000:9000
       - 8000:8000
+      - 9443:9443
     restart: always
     volumes:
       - /var/run/docker.sock:/var/run/docker.sock
