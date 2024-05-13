@@ -52,7 +52,3 @@ Las contribuciones son bienvenidas. Si deseas mejorar este repositorio, no dudes
 
 ## Contacto
 Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto con el propietario del repositorio: Andrés Eduardo García Márquez (<andresgarcia0313@gmail.com>).
-
----
-
-Este README.md proporciona instrucciones claras y concisas para configurar y utilizar Portainer, junto con una descripción general del contenido del repositorio y la información de contacto del propietario. ¡Espero que sea útil! 🚀😊📝
